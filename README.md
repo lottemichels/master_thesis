@@ -22,7 +22,7 @@ Code for data pre-processing was partly re-used from my internship project, whic
 ## SAHI Source Code Adjustments:
 Code added to the SAHI source code (Akyon et al., 2021) was done in the following two scripts:
 * `predict.py` in lines 202-203 and lines 321-322
-* `slicing.py` in lines 296-300 and lines 361-383
+* `slicing.py` in lines 296-300 and lines 357-386
 
 The adapted scripts are included in: [sahi_adjustments](./CODE/ETZ/sahi_adjustments).
 Adjustments are clearly indicated with comments on and around the mentioned code lines. 
